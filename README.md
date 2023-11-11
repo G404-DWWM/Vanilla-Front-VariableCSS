@@ -6,7 +6,7 @@
 # 📺 Présentation
 
 
-    Live coding [CSS variables X JS](https://codepen.io/hamza-karfa/pen/NWRJELp)
+Live coding [CSS variables X JS](https://codepen.io/hamza-karfa/pen/NWRJELp)
 
 
 # 📚️ Ressources
@@ -30,7 +30,7 @@ Suivre ce tuto en anglais:[ CSS Variables 101 - Style this lesson!](https://code
 _N'oubliez pas de Fork les codepens_
 
 
-    [Exercices Button CodePen](https://codepen.io/hamza-karfa/pen/MWjxzRG)
+[Exercices Button CodePen](https://codepen.io/hamza-karfa/pen/MWjxzRG)
 
 
 ## **consignes :**
@@ -67,7 +67,7 @@ Résultat attendu :[ https://i.gyazo.com/049e59b7d03b770072a47c34e78ad60d.gif](h
 # 🎨 Exercice 3
 
 
-    [Exercices Update CSS Variables CodePen](https://codepen.io/hamza-karfa/pen/GRjePgj)
+[Exercices Update CSS Variables CodePen](https://codepen.io/hamza-karfa/pen/GRjePgj)
 
 
 ## **Consignes :**
