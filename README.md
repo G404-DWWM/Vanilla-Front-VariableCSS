@@ -1,4 +1,4 @@
-# Vanilla-01-VariableCSS
+# Vanilla-Front-VariableCSS
 
 # CSS Variables & JS
 
