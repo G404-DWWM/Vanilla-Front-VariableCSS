@@ -47,7 +47,7 @@ Résultat attendu :[ https://i.gyazo.com/049e59b7d03b770072a47c34e78ad60d.gif](h
 # 🎨 Exercice 2
 
 
-    [Exercices Theme de site CodePen](https://codepen.io/hamza-karfa/pen/yLawQmj)
+[Exercices Theme de site CodePen](https://codepen.io/hamza-karfa/pen/yLawQmj)
 
 
 ## **Consignes :**
